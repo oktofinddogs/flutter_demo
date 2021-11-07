@@ -1,16 +1,11 @@
-# flutter_test1
+# 项目说明
 
-A new Flutter project.
+由于所提供远程链接无法访问，本项目所有数据为本地假数据
 
-## Getting Started
+项目开发环境flutter 2.5.3  dart 2.14.4
 
-This project is a starting point for a Flutter application.
+使用到的插件有dio: ^4.0.1、shared_preferences: ^2.0.0、pull_to_refresh: ^2.0.0
 
-A few resources to get you started if this is your first Flutter project:
+实现的功能：商品列表展示、按首字母排序、刷新列表、添加收藏夹、安卓启动白屏优化
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+工时一天
